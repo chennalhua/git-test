@@ -22,4 +22,19 @@ a {
   background: #016ce6;
   color: #fff;
 }
+
+.banner {
+  background: url("https://www.adobe.com/tw/express/create/media_178d2b8f8be7a46a31b644514960fd9af29039251.png?width=1200&format=pjpg&optimize=medium") no-repeat;
+  background-size: cover;
+  height: 450px;
+  display: fixed;
+}
+
+.banner .title-mask {
+  width: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(255, 255, 255, 0.2);
+}
 /*# sourceMappingURL=all.css.map */
