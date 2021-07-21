@@ -1,0 +1,21 @@
+.topBar{
+    box-shadow: 1px 1px 3px rgba(0,0,0,.5);
+    .logo{
+        img{
+            width: 40px;
+        }
+    }
+    .menu{
+        a{
+            color: #000;
+            display: block;
+            transition: all .3s;
+            padding: 5px 10px;
+            border-radius: 3px;
+            &:hover{
+                background: #016ce6;
+                color: #fff;
+            }
+        }
+    }
+}
