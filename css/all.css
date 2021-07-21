@@ -40,5 +40,7 @@ a {
 .content-list img {
   width: 150px;
   border-radius: 50%;
+  width: 100px;
+  border-radius: 0;
 }
 /*# sourceMappingURL=all.css.map */
